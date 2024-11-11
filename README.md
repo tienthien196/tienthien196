@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Tienthien | BNJ ⚔️</h1>
+<h1 align="center">⚔️ Tiến Thiện | BNJ ⚔️</h1>
 <meta name="google-site-verification" content="zuBMH_pQOhpTfwBXEGbkv0Szb9KAZX3S2YzWdEbJZcY" />
 <p align="center">
   <b>💻 Game Developer | Godot Enthusiast | Indie Game Creator 🔧</b>
@@ -26,8 +26,8 @@ I am **TIENTHIEN** (also known as BNJ), an independent game developer passionate
 
 - **Game Engine**: ![Godot](https://img.shields.io/badge/-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=478cbf)
 - **Ngôn Ngữ**: GDScript, C#, Python
-- **Kỹ năng đặc biệt**: Cơ chế gameplay phức tạp, AI, tối ưu hóa hiệu suất
-- **Công cụ bổ sung**: Blender, Photoshop, Git
+- **Kỹ năng đặc biệt**: Maps, services, levels, and experiences are designed with a focus on multi-faceted organization. Certain skills within the AI character system are optimized to enhance performance and improve the overall gameplay experience.
+- **Công cụ bổ sung**: Blender, Photoshop, Git, Picxel Art store, Micro
 
 ---
 
