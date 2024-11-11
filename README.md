@@ -2,7 +2,7 @@
 
 ## 🕹️ Game Developer | Godot Enthusiast
 
-**Xin chào!** Tôi là Tienthien, một nhà phát triển game đam mê sáng tạo và thiết kế game với engine **Godot**. Với biệt danh **BNJ**, tôi tập trung vào việc phát triển các trò chơi RPGMMO, tối ưu hóa trải nghiệm người chơi và khám phá những kỹ thuật mới trong lập trình game.
+**Xin chào!** Tôi là TIENTHIEN, một nhà phát triển game đam mê sáng tạo và thiết kế game với engine **Godot**. Với biệt danh **BNJ**, tôi tập trung vào việc phát triển các trò chơi RPGMMO, tối ưu hóa trải nghiệm người chơi và khám phá những kỹ thuật mới trong lập trình game.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### 📂 Dự Án Nổi Bật
 
-- **[khai phá Online] (link)** - khai phá Online lả thể loại game RPG Mutiplayer
+- **khai phá Online([link](https://github.com/tienthien196/khaipha_online.git))** -  thể loại game RPG Mutiplayer với cốt truyện kinh điển vể vương quốc Althar 
 
 
 ---
@@ -33,8 +33,8 @@ Hiện tại, tôi đang tập trung vào việc:
 
 ### 📫 Liên Hệ Với Tôi
 
-- **GitHub**: [github.com/tienthien](https://github.com/tienthien)
-- **Email**: tienthien@example.com
+- **GitHub**: [github.com/tienthien]([https://github.com/tienthien](https://github.com/tienthien196))
+- **Email**: votienthien.196@gmail.com
 - **Twitter**: [@BNJ_gamedev](https://twitter.com/BNJ_gamedev)
 
 ---
