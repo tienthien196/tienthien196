@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX">Game 2D</a></p>
+  <img src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" alt="Game Dev GIF" width="400">
 </p>
 
 ---
 
-###  Xin Chào! 
+### 💥 Xin Chào! 
 Tôi là **TIENTHIEN** (hay gọi là **BNJ**), một **game developer** độc lập đam mê với engine **Godot**. Tôi chuyên phát triển các trò chơi **RPG MMO** với cơ chế gameplay sáng tạo và hiệu suất cao. Với niềm yêu thích khám phá công nghệ, tôi luôn sẵn sàng học hỏi kỹ thuật mới và chia sẻ kinh nghiệm với cộng đồng game dev.
 
 ---
