@@ -17,7 +17,7 @@
 
 ### 📂 Dự Án Nổi Bật
 
-- **khai phá Online (link)** - khai phá Online lả thể loại game RPG Mutiplayer
+- **[khai phá Online] (link)** - khai phá Online lả thể loại game RPG Mutiplayer
 
 
 ---
