@@ -1,42 +1,65 @@
-# 👾 Tienthien | BNJ
+<h1 align="center">👾 Tienthien | BNJ 👾</h1>
 
-## 🕹️ Game Developer | Godot Enthusiast
+<p align="center">
+  <b>🕹️ Game Developer | Godot Enthusiast | Indie Game Creator 🕹️</b>
+</p>
 
-**Xin chào!** Tôi là TIENTHIEN, một nhà phát triển game đam mê sáng tạo và thiết kế game với engine **Godot**. Với biệt danh **BNJ**, tôi tập trung vào việc phát triển các trò chơi RPGMMO, tối ưu hóa trải nghiệm người chơi và khám phá những kỹ thuật mới trong lập trình game.
+<p align="center">
+  <img src="https://img.shields.io/badge/Godot-Game%20Engine-blue?style=flat&logo=godot-engine&color=478cbf">
+  <img src="https://img.shields.io/badge/GDScript-Expert-yellow?style=flat&color=yellow">
+  <img src="https://img.shields.io/badge/CSharp-Intermediate-green?style=flat&logo=csharp&color=green">
+  <img src="https://img.shields.io/badge/Indie%20Game%20Dev-Passion-ff69b4">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Game Dev GIF" width="300">
+</p>
+
+---
+
+### 🖐️ Xin Chào! 
+Tôi là **TIENTHIEN** (hay gọi là **BNJ**), một nhà phát triển game indie đam mê với engine **Godot**. Tôi tập trung vào việc phát triển gameplay sáng tạo và tối ưu hóa trải nghiệm người chơi, với trọng tâm là các trò chơi **RPG MMO**. Bên cạnh đó, tôi thích khám phá những kỹ thuật mới và đóng góp cho cộng đồng lập trình game.
 
 ---
 
 ### 🛠️ Kỹ Năng và Công Cụ
 
-- **Game Engine**: Godot Engine
+- **Game Engine**: ![Godot](https://img.shields.io/badge/-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=478cbf)
 - **Ngôn Ngữ**: GDScript, C#, Python
-- **Kỹ năng đặc biệt**: Xây dựng cơ chế gameplay, thiết kế AI, tối ưu hóa hiệu suất game
+- **Kỹ năng đặc biệt**: Xây dựng cơ chế gameplay, thiết kế AI, tối ưu hóa hiệu suất
 - **Công cụ bổ sung**: Blender, Photoshop, Git
 
 ---
 
 ### 📂 Dự Án Nổi Bật
 
-- **khai phá Online([link](https://github.com/tienthien196/khaipha_online.git))** -  thể loại game RPG Mutiplayer với cốt truyện kinh điển vể vương quốc Althar 
-
+- **Khai Phá Online** ([Repo Link](https://github.com/tienthien196/khaipha_online.git)) - Thể loại game RPG Multiplayer với cốt truyện kinh điển về vương quốc **Althar**.
 
 ---
 
 ### 🎮 Định Hướng Phát Triển
 
-Hiện tại, tôi đang tập trung vào việc:
-- Xây dựng các trò chơi nhỏ với cơ chế sáng tạo.
-- Tìm hiểu sâu hơn về hiệu suất trong Godot.
-- Kết nối và học hỏi từ cộng đồng phát triển game.
+Hiện tại, tôi đang tập trung vào:
+- Sáng tạo các cơ chế game độc đáo.
+- Nghiên cứu và cải tiến hiệu suất game trong **Godot**.
+- Kết nối với cộng đồng game dev để chia sẻ và học hỏi.
 
 ---
 
-### 📫 Liên Hệ Với Tôi
+### 📫 Kết Nối Với Tôi
 
-- **GitHub**: [github.com/tienthien]([https://github.com/tienthien](https://github.com/tienthien196))
-- **Email**: votienthien.196@gmail.com
-- **Twitter**: [@BNJ_gamedev](https://twitter.com/BNJ_gamedev)
+<p align="left">
+  <a href="https://github.com/tienthien196">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:votienthien.196@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/BNJ_gamedev">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
 ---
 
-Cảm ơn bạn đã ghé thăm! Đừng ngần ngại kết nối hoặc trao đổi ý tưởng về game!
+Cảm ơn bạn đã ghé thăm! Đừng ngần ngại kết nối và trao đổi ý tưởng về game! 🎮
