@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0K4m4JEGsX2ngH2I/giphy.gif" alt="Game Dev GIF" width="300">
+  <iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX">Game 2D</a></p>
 </p>
 
 ---
 
-### 👾 Xin Chào! 
+###  Xin Chào! 
 Tôi là **TIENTHIEN** (hay gọi là **BNJ**), một **game developer** độc lập đam mê với engine **Godot**. Tôi chuyên phát triển các trò chơi **RPG MMO** với cơ chế gameplay sáng tạo và hiệu suất cao. Với niềm yêu thích khám phá công nghệ, tôi luôn sẵn sàng học hỏi kỹ thuật mới và chia sẻ kinh nghiệm với cộng đồng game dev.
 
 ---
@@ -32,7 +32,7 @@ Tôi là **TIENTHIEN** (hay gọi là **BNJ**), một **game developer** độc 
 
 ---
 
-### ⚔️ Dự Án Nổi Bật
+### 🚧 Dự Án Nổi Bật ⚔️
 
 - **Khai Phá Online** ([Repo Link](https://github.com/tienthien196/khaipha_online.git)) - Một **game RPG MMO** nhiều người chơi với cốt truyện sâu sắc về **vương quốc Althar**.
 
@@ -63,4 +63,4 @@ Hiện tại, tôi đang tập trung vào:
 
 ---
 
-Cảm ơn bạn đã ghé thăm! Hãy kết nối và trao đổi ý tưởng về game dev! 🚀
+👻 Cảm ơn bạn đã ghé thăm! Hãy kết nối và trao đổi ý tưởng về game dev! 🚀
