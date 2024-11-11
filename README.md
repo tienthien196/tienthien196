@@ -19,15 +19,14 @@
 ---
 
 ### 💥 Hello! 
-Introduction to TIENTHIEN (BNJ)
-Name: TIENTHIEN (also known as BNJ)
-Title: Independent Game Developer
-Passion:
-I am an independent game developer with a strong passion for the Godot Engine.
-Specialization:
-I specialize in developing RPG MMO games featuring creative gameplay mechanics and high performance.
-Technology Exploration:
-With a love for exploring new technologies, I am always eager to learn new techniques and share my experiences with the game development community.
+Introduction to TIENTHIEN (also known as BNJ)
+**Title**: Independent Game Developer
+**Passion**:
+  I am an independent game developer with a strong passion for the Godot Engine.
+**Specialization**:
+  I specialize in developing RPG MMO games featuring creative gameplay mechanics and high performance.
+**Technology Exploration**:
+  With a love for exploring new technologies, I am always eager to learn new techniques and share my experiences with the game development community.
 
 ---
 
