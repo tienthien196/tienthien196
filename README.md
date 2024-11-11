@@ -18,9 +18,8 @@
 
 ---
 
-### 💥 Xin Chào! 
-Tôi là **TIENTHIEN** (hay gọi là **BNJ**), một **game developer** độc lập đam mê với engine **Godot**. Tôi chuyên phát triển các trò chơi **RPG MMO** với cơ chế gameplay sáng tạo và hiệu suất cao. Với niềm yêu thích khám phá công nghệ, tôi luôn sẵn sàng học hỏi kỹ thuật mới và chia sẻ kinh nghiệm với cộng đồng game dev.
-
+### 💥 Hello! 
+I am **TIENTHIEN** (also known as BNJ), an independent game developer passionate about the **Godot engine**. I specialize in developing **RPG MMO** games with creative gameplay mechanics and high performance. With a love for exploring new technologies, I am always eager to learn new techniques and share my experiences with the game development community.
 ---
 
 ### 🛠️ Kỹ Năng và Công Cụ
@@ -38,12 +37,12 @@ Tôi là **TIENTHIEN** (hay gọi là **BNJ**), một **game developer** độc 
 
 ---
 
-### 🔥 Định Hướng Phát Triển
+### 🔥 Development Focus
 
-Hiện tại, tôi đang tập trung vào:
-- Phát triển các cơ chế game độc đáo, sáng tạo cho game RPG.
-- Khám phá và nâng cao hiệu suất game trong **Godot**.
-- Kết nối và học hỏi từ cộng đồng game developer trên toàn thế giới.
+Currently, I am focusing on:
+- Developing unique and creative game mechanics for RPG games.
+- Exploring and enhancing game performance in **Godot**.
+- Connecting with and learning from the global game development community.
 
 ---
 
@@ -63,4 +62,5 @@ Hiện tại, tôi đang tập trung vào:
 
 ---
 
-👻 Cảm ơn bạn đã ghé thăm! Hãy kết nối và trao đổi ý tưởng về game dev! 🚀
+👻 Thank you for visiting! Let's connect and exchange ideas about game dev! 🚀
+
